@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A Passionate Frontend Developer | UI/UX Designer | Flutter Developer</h3>
 
-<img align ="right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
+<img align ="right" alt = "Coding" width = "380" src = "https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harini487&label=Profile%20views&color=0e75b6&style=flat" alt="harini487" /> </p>
 
