@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
-<h3 align="center">A Passionate Frontend Developer | Flutter Developer | AI and ML Enthusiast</h3>
+<h3 align="center">A Passionate Full-Stack Developer | Flutter Developer | AI and ML Enthusiast</h3>
 
 <img align ="right" alt = "Coding" width = "380" src = "https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
