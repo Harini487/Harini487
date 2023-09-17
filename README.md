@@ -3,9 +3,9 @@
 
 <img align ="right" alt = "Coding" width = "380" src = "https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
 
-- 🌱 I’m currently learning **how to deploy ML models into production**
+<!-- 🌱 I’m currently learning **how to deploy ML models into production**
 
-- 👨‍💻 All of my projects are available at [https://harini-abey.vercel.app/](https://harini-abey.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://harini-abey.vercel.app/](https://harini-abey.vercel.app/) -->
 
 - 📝 I regularly write articles on [Medium](Medium)
 
