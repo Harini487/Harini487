@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harini-abey.vercel.app/](https://harini-abey.vercel.app/) -->
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I write articles on [Medium](Medium) ocassionally tho ;)
 
 - 📫 How to reach me **hariniabey@gmail.com**
 
