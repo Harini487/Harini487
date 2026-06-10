@@ -3,23 +3,22 @@
 
 <table>
   <tr>
-    <td style="background-color: white; padding: 10px;">
-      <img align="right" alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
-    </td>
-  </tr>
-</table>
+    <td valign="top">
+      <ul>
+        <li>📝 I write articles on <a href="https://medium.com/@hariab">Medium</a> occasionally tho ;)</li>
+        <li>📫 How to reach me <strong>hariniabey@gmail.com</strong></li>
+      </ul>
 
-<!-- 🌱 I’m currently learning **how to deploy ML models into production**
-
-- 👨‍💻 All of my projects are available at [https://harini-abey.vercel.app/](https://harini-abey.vercel.app/) -->
-
-- 📝 I write articles on [Medium]((https://medium.com/@hariab)) ocassionally tho ;)
-
-- 📫 How to reach me **hariniabey@gmail.com**
-
-### Blogs posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+  </td>
+    <td valign="top">
+      <img alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
+  </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
