@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast and Web Developer</h3>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
       <ul>
@@ -13,10 +13,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-  </td>
+    </td>
     <td valign="top">
       <img alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
-  </td>
+    </td>
   </tr>
 </table>
 
