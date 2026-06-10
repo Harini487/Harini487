@@ -13,10 +13,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-    </td>
+  </td>
     <td valign="top">
       <img alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
-    </td>
+  </td>
   </tr>
 </table>
 
