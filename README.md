@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast and Web Developer</h3>
 
-<img align="right" alt="Coding" width="340" src="[https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif](https://cdn.dribbble.com/userupload/22551121/file/original-ac23c079e29ab5d40cf18edc4e0cc088.gif)">
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/userupload/22551121/file/original-ac23c079e29ab5d40cf18edc4e0cc088.gif">
 
 - 📝 I write articles on [Medium](https://medium.com/@hariniabey) occasionally tho ;)
 - 📫 How to reach me **hariniabey@gmail.com**
