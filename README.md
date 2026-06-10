@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
-<h3 align="center">A Passionate Full-Stack, AI and Blockchain Enthusiast</h3>
+<h3 align="center">A Passionate Cybersecurity Enthusiast and Web Developer</h3>
 
-<img align ="right" alt = "Coding" width = "380" src = "https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif">
+<img align ="right" alt = "Coding" width = "380" src = "https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
 
 <!-- 🌱 I’m currently learning **how to deploy ML models into production**
 
 - 👨‍💻 All of my projects are available at [https://harini-abey.vercel.app/](https://harini-abey.vercel.app/) -->
 
-- 📝 I write articles on [Medium](Medium) ocassionally tho ;)
+- 📝 I write articles on [Medium]((https://medium.com/@hariab)) ocassionally tho ;)
 
 - 📫 How to reach me **hariniabey@gmail.com**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harini abeysirigunawardena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harini abeysirigunawardena" height="30" width="40" /></a>
-<a href="https://medium.com/@hariniab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariniab" height="30" width="40" /></a>
+<a href="https://medium.com/@hariab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariniab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
