@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast and Web Developer</h3>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <ul>
         <li>📝 I write articles on <a href="https://medium.com/@hariab">Medium</a> occasionally tho ;)</li>
         <li>📫 How to reach me <strong>hariniabey@gmail.com</strong></li>
@@ -12,8 +12,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
     </td>
-    <td valign="top">
-      <img alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
+    <td valign="top" style="border: none;">
+      <img alt="Coding" width="340" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
     </td>
   </tr>
 </table>
