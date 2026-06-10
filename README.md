@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">A Passionate Cybersecurity Enthusiast and Web Developer</h3>
 
-<img align ="right" alt = "Coding" width = "380" src = "https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
+<table>
+  <tr>
+    <td style="background-color: white; padding: 10px;">
+      <img align="right" alt="Coding" width="380" src="https://miro.medium.com/1*UmjLE-m03_2wKPtQyl05mg.gif">
+    </td>
+  </tr>
+</table>
 
 <!-- 🌱 I’m currently learning **how to deploy ML models into production**
 
