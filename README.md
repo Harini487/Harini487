@@ -8,6 +8,8 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Attackers Think: A Beginner’s Guide to the Cyber Kill Chain](https://medium.com/@hariab/how-attackers-think-a-beginners-guide-to-the-cyber-kill-chain-fecde4d954d8?source=rss-5bce8702e72f------2)
+- [Network Traffic Analysis: Introduction to Wireshark](https://medium.com/@hariab/network-traffic-analysis-introduction-to-wireshark-259acaa61dd1?source=rss-5bce8702e72f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
