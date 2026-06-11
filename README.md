@@ -13,7 +13,7 @@
   <br><b>How Attackers Think: A Beginner's Guide to the Cyber Kill Chain</b>
 </a>
 
-<br><br>
+<br>
 
 <a href="https://medium.com/@hariab/network-traffic-analysis-introduction-to-wireshark-259acaa61dd1" target="_blank">
   <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cCYCDNbG9jUhpkZk57G8aA.png" alt="Network Traffic Analysis" width="280"/>
