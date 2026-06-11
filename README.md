@@ -7,10 +7,18 @@
 - 📫 How to reach me **hariniabey@gmail.com**
 
 ### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How Attackers Think: A Beginner’s Guide to the Cyber Kill Chain](https://medium.com/@hariab/how-attackers-think-a-beginners-guide-to-the-cyber-kill-chain-fecde4d954d8?source=rss-5bce8702e72f------2)
-- [Network Traffic Analysis: Introduction to Wireshark](https://medium.com/@hariab/network-traffic-analysis-introduction-to-wireshark-259acaa61dd1?source=rss-5bce8702e72f------2)
-<!-- BLOG-POST-LIST:END -->
+
+<a href="https://medium.com/@hariab/how-attackers-think-a-beginners-guide-to-the-cyber-kill-chain-fecde4d954d8" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*A2vhZQ9ICIvG5PP8a73aiA.png" alt="How Attackers Think" width="280"/>
+  <br><b>How Attackers Think: A Beginner's Guide to the Cyber Kill Chain</b>
+</a>
+
+<br><br>
+
+<a href="https://medium.com/@hariab/network-traffic-analysis-introduction-to-wireshark-259acaa61dd1" target="_blank">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cCYCDNbG9jUhpkZk57G8aA.png" alt="Network Traffic Analysis" width="280"/>
+  <br><b>Network Traffic Analysis: Introduction to Wireshark</b>
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
