@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harini👋</h1>
 <h3 align="center">A Passionate Cloud Security Enthusiast and Web Developer 🛡️☁️🌐</h3>
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/userupload/22551121/file/original-ac23c079e29ab5d40cf18edc4e0cc088.gif">
+<img align="right" alt="Coding" width="340" src="https://dribbble.com/shots/4117171-Cloud-Interaction">
 
 - 📝 I write articles on [Medium](https://medium.com/@hariab) occasionally tho ;)
 - 📫 Reach me via [email](mailto:hariniabey@gmail.com)
